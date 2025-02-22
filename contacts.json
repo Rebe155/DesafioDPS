@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Carlos",
+      "lastName": "Sainz",
+      "phone": "18551000",
+      "isFavorite": true
+    },
+    {
+      "id": 2,
+      "name": "Checo",
+      "lastName": "Perez",
+      "phone": "12345678",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Max",
+      "lastName": "Verstappen",
+      "phone": "55556526",
+      "isFavorite": false
+    }
+  ]
