@@ -4,6 +4,7 @@ import { View, FlatList, StyleSheet } from 'react-native';
 import Contact from './Contact';
 
 const ContactList = ({ contacts, onDelete, onToggleFavorite }) => {
+
   return (
     <View style={styles.container}>
       <FlatList
